@@ -1,5 +1,5 @@
 <br>
-<img src="https://github.com/Sahildavkhar/Travel_Website_Mini-Project/assets/141304285/0c24ee7e-01cd-4d71-b53e-7e47f537b76e" alt="logo" width="200">
+<img src="https://github.com/Sahildavkhar/Travel_Website_Mini-Project/assets/141304285/0c24ee7e-01cd-4d71-b53e-7e47f537b76e" alt="logo" width="300">
 <br>
 
 
@@ -7,7 +7,6 @@
 
 __TripNest__ : This is our sem2 Mini Project It is made for Educational Purpose and May have used copyright images But it would not be used commercially This Project is to demonstarte our skills and Knowledge about the web development and it is solely made using HTML,CSS and JAVASCRIPT It is a responsive website with no inculsion of data base so it may lack in some Features related to data base
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
 ## App UI
